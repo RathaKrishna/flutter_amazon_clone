@@ -1,7 +1,7 @@
 # Flutter Amazon Clone
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/rkcloud/image/upload/v1657523587/j5moz55tojlhhhvkjso4.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Amazon Clone Readme </h2>
+ <img width="100px" src="https://res.cloudinary.com/rkcloud/image/upload/v1657523587/j5moz55tojlhhhvkjso4.png" align="center" alt="" />
+ <h2 align="center">Fullstack Flutter Amazon Clone  </h2>
  <p align="center">A Full Stack Amazon Clone app with Flutter!</p>
 </p>
 
