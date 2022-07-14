@@ -78,7 +78,7 @@ To run the server, run the following commands:
 
 
 ### Run the App
-Before starting 🏁, you need to have Git and Flutter installed.
+Before starting 🏁, you need to have Flutter installed.
 ```
 # Clone this project
 $ git clone https://github.com/RathaKrishna/flutter_amazon_clone.git
