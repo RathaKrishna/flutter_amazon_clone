@@ -6,7 +6,7 @@
 </p>
 
 # About
-Full Stack Working Amazon Clone app with Admin Dashboard using Flutter and Backend with NodeJs and MongoBD + Atlas.
+Full Stack Working Amazon Clone app with Admin Dashboard using Flutter and Backend with NodeJs and MongoDB + Atlas.
 
 ## Demo
 <div class="row">
