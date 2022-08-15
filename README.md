@@ -51,7 +51,7 @@ This project is a Full stack app for Amazon clone with Admin panel and Server si
 - Admin Panel
     - View All Products
     - Add new Products
-    - Delelte Products
+    - Delete Products
     - View Orders and Change current status
     - Viewing Total Earnings
     - Viewing Category Based Earnings (on Graph)
